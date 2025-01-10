@@ -171,6 +171,7 @@ cython_debug/
 .pypirc
 
 extracted_objects/
-.vscode
-formatted_nuscenes.json
+.vscode/
 extracted_categories/
+preprocess_json.py
+o3d_test.py
