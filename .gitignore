@@ -172,3 +172,4 @@ cython_debug/
 
 extracted_objects/
 .vscode
+formatted_nuscenes.json
