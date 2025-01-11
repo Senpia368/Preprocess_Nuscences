@@ -175,3 +175,5 @@ extracted_objects/
 extracted_categories/
 preprocess_json.py
 o3d_test.py
+*venv/
+dataset/
